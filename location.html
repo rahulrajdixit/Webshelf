@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>location tracker</title>
+	</head>
+	<body>
+		<h1>Location Tracker</h1>
+		<h3>This page is still under construction...</h3>
+			<h1>:(</h1>
+		<p>Find you current</p>
+		<p>(In order to get your location, you need to enable the page to access your location.)</p>
+		<button onclick="getLocation()">Get your current location</button>
+		<p id="demo"></p>
+
+		<script type="text/javascript">
+			function getLocation()
+			{
+				alert("Finding location...");
+				if(navigator.getLocation)
+				{
+					navigator.geolocation.getCurrentPosition(showPosition);
+					//alert("finding location");
+				}
+				else{
+					alert("location not found");
+					x.innerHTML="Geolocation is not supported by this browser.";
+
+				}
+			}
+
+			function showPosition(position)
+			{
+				alert("location found!");
+				x.innerHTML="Latitude:"+position.coords.latitude+"<br>Longitude:"+position.coords.longitude;
+			}
+		</script>
+	</body>
+</html>
