@@ -6,3 +6,27 @@ The website also surves as an Onine Shelf of all the simple web applications I d
 > 2) WhatsMyTask
 
 You can check out the website here: https://rahulrajdixit.github.io/Webshelf/
+
+The following parts are under documentation:-
+
+## **Please Note**
+
+
+## **Introduction**
+
+
+## **Features**
+
+
+## **How to use it?**
+
+
+## **Coding Style**
+
+
+## **Pros and Cons**
+
+
+### **Pros**
+
+### **Cons**
