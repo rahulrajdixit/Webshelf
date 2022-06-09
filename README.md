@@ -7,7 +7,7 @@ The website also surves as an Onine Shelf of all the simple web applications I d
 
 You can check out the website here: https://rahulrajdixit.github.io/Webshelf/
 
-### **[UNDER DOCUMENTATION :(]**
+### **[UNDER DOCUMENTATION] :(**
 The following parts are under documentation, and will be reflected here soon:-
 
 
