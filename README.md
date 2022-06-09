@@ -19,6 +19,7 @@ The following parts are under documentation, and will be reflected here soon:-
 
 
 ## **How to use it?**
+You can just go to this link to access and explore the website:-
 
 
 ## **Coding Style**
