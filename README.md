@@ -25,7 +25,7 @@ The following parts are under documentation, and will be reflected here soon:-
 
 
 ## **How to use it?**
-You can just go to this link to access and explore the website:-
+You can just go to this link to explore the website:-
 https://rahulrajdixit.github.io/Webshelf/
 
 ## **Coding Style**
