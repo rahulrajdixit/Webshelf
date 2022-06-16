@@ -38,4 +38,4 @@ https://rahulrajdixit.github.io/Webshelf/
 ### **Cons**
 1. Has a lot of redundant code.
 2. Does not have a responsive web design.
-3. Front of the website can still be improved.
+3. Front-end of the website can still be improved.
