@@ -9,10 +9,8 @@
 ## **Introduction**
 
 <p align="center">
-  <img width=70% src="https://user-images.githubusercontent.com/61109976/175759271-5d92e40b-46e3-413b-bba4-66e8075dd88e.png">
+  <img width=80% src="https://user-images.githubusercontent.com/61109976/175759271-5d92e40b-46e3-413b-bba4-66e8075dd88e.png">
 </p>
-
-![image](https://user-images.githubusercontent.com/61109976/175759271-5d92e40b-46e3-413b-bba4-66e8075dd88e.png)
 
 Webshelf is a simple website I tried building using html, css, and javascript totally from scratch. The idea behind the website was to serve as a platform, where the most popular websites, web-applications and tools can be grouped together, based on their field. Example: A section focused on "Coding" would have a collection of websites such as: GeeksforGeeks, Tutorialspoint, GitHub, etc..
 
